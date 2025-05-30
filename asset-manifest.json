@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/arqhavancafe/static/css/main.000a0f94.css",
+    "main.js": "/arqhavancafe/static/js/main.752e4dd1.js",
+    "static/js/453.5a750947.chunk.js": "/arqhavancafe/static/js/453.5a750947.chunk.js",
+    "static/media/Raleway-Bold.woff": "/arqhavancafe/static/media/Raleway-Bold.f9dff8812391ae60162a.woff",
+    "static/media/Raleway-Regular.woff": "/arqhavancafe/static/media/Raleway-Regular.82cf95eea317d3b15f7a.woff",
+    "static/media/Raleway-Light.woff": "/arqhavancafe/static/media/Raleway-Light.07a8816daf1a1a7c0c03.woff",
+    "static/media/Raleway-Medium.woff": "/arqhavancafe/static/media/Raleway-Medium.ab82972fcba645cc9644.woff",
+    "static/media/Raleway-Bold.woff2": "/arqhavancafe/static/media/Raleway-Bold.eb6eed8c84d4ec08f2a7.woff2",
+    "static/media/Raleway-Regular.woff2": "/arqhavancafe/static/media/Raleway-Regular.e68851d1bfde5f924797.woff2",
+    "static/media/Raleway-Light.woff2": "/arqhavancafe/static/media/Raleway-Light.3c26a408dc74963b567b.woff2",
+    "static/media/Raleway-Medium.woff2": "/arqhavancafe/static/media/Raleway-Medium.fda9b42953a7b22f4f46.woff2",
+    "static/media/Vazir-Light.woff": "/arqhavancafe/static/media/Vazir-Light.0dca866ad7c058dfadfb.woff",
+    "static/media/Vazir-Bold.woff": "/arqhavancafe/static/media/Vazir-Bold.8a6538859ac709ea69b2.woff",
+    "static/media/Vazir-Medium.woff": "/arqhavancafe/static/media/Vazir-Medium.919d0807fe375342b619.woff",
+    "static/media/Vazir-Regular.woff": "/arqhavancafe/static/media/Vazir-Regular.f413b786be3bb85ed059.woff",
+    "static/media/Vazir-Light.woff2": "/arqhavancafe/static/media/Vazir-Light.b6cd523f60b79c0671d1.woff2",
+    "static/media/Vazir-Bold.woff2": "/arqhavancafe/static/media/Vazir-Bold.7ad7995a149144eb4f58.woff2",
+    "static/media/Vazir-Medium.woff2": "/arqhavancafe/static/media/Vazir-Medium.5846e466819c745a0d83.woff2",
+    "static/media/Vazir-Regular.woff2": "/arqhavancafe/static/media/Vazir-Regular.517ac79317ad6c7ed650.woff2",
+    "index.html": "/arqhavancafe/index.html",
+    "main.000a0f94.css.map": "/arqhavancafe/static/css/main.000a0f94.css.map",
+    "main.752e4dd1.js.map": "/arqhavancafe/static/js/main.752e4dd1.js.map",
+    "453.5a750947.chunk.js.map": "/arqhavancafe/static/js/453.5a750947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000a0f94.css",
+    "static/js/main.752e4dd1.js"
+  ]
+}
