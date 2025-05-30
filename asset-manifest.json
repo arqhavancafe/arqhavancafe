@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arqhavancafe/static/css/main.000a0f94.css",
-    "main.js": "/arqhavancafe/static/js/main.062103f1.js",
+    "main.js": "/arqhavancafe/static/js/main.374fc975.js",
     "static/js/453.5a750947.chunk.js": "/arqhavancafe/static/js/453.5a750947.chunk.js",
     "static/media/Raleway-Bold.woff": "/arqhavancafe/static/media/Raleway-Bold.f9dff8812391ae60162a.woff",
     "static/media/Raleway-Regular.woff": "/arqhavancafe/static/media/Raleway-Regular.82cf95eea317d3b15f7a.woff",
@@ -21,11 +21,11 @@
     "static/media/Vazir-Regular.woff2": "/arqhavancafe/static/media/Vazir-Regular.517ac79317ad6c7ed650.woff2",
     "index.html": "/arqhavancafe/index.html",
     "main.000a0f94.css.map": "/arqhavancafe/static/css/main.000a0f94.css.map",
-    "main.062103f1.js.map": "/arqhavancafe/static/js/main.062103f1.js.map",
+    "main.374fc975.js.map": "/arqhavancafe/static/js/main.374fc975.js.map",
     "453.5a750947.chunk.js.map": "/arqhavancafe/static/js/453.5a750947.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.000a0f94.css",
-    "static/js/main.062103f1.js"
+    "static/js/main.374fc975.js"
   ]
 }
