@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1201b15.css",
+    "main.css": "/static/css/main.62bf9ca0.css",
     "main.js": "/static/js/main.24936894.js",
     "static/js/453.5a750947.chunk.js": "/static/js/453.5a750947.chunk.js",
     "static/media/Raleway-Bold.woff": "/static/media/Raleway-Bold.f9dff8812391ae60162a.woff",
@@ -20,12 +20,12 @@
     "static/media/Vazir-Medium.woff2": "/static/media/Vazir-Medium.5846e466819c745a0d83.woff2",
     "static/media/Vazir-Regular.woff2": "/static/media/Vazir-Regular.517ac79317ad6c7ed650.woff2",
     "index.html": "/index.html",
-    "main.f1201b15.css.map": "/static/css/main.f1201b15.css.map",
+    "main.62bf9ca0.css.map": "/static/css/main.62bf9ca0.css.map",
     "main.24936894.js.map": "/static/js/main.24936894.js.map",
     "453.5a750947.chunk.js.map": "/static/js/453.5a750947.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1201b15.css",
+    "static/css/main.62bf9ca0.css",
     "static/js/main.24936894.js"
   ]
 }
