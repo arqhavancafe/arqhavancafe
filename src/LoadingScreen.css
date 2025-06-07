@@ -1,0 +1,9 @@
+#progress-bar{
+  transition: width 2s ease;
+}
+#loading{
+  transition: all .5s ease;
+}
+#loading.hidden{
+  visibility: hidden;
+}
