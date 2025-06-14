@@ -171,7 +171,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>سیروپ اضافی</span>
-                    <span>۱۵٬۰۰۰+</span>
+                    <span>۲۰٬۰۰۰+</span>
                   </div>
                 </SimpleBar>
               </div>
