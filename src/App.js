@@ -28,11 +28,10 @@ function App() {
         const contentRect = content.getBoundingClientRect();
         const contentTop = contentRect.top + window.scrollY;
         
-        // SimpleBar'ın içindeki content wrapper'ı bul
+
         const simplebarWrapper = wrapper.querySelector('.simplebar-content-wrapper');
         if (!simplebarWrapper) return;
-        // Viewport'un başı section-wrapper ile section-content arasında mı?
-        if (viewportTop > wrapperTop && viewportTop < contentTop) {
+        if (viewportTop > wrapperTop -4 && viewportTop < contentTop) {
           wrapper.classList.add('active-scroll-menu');
           wrapper.classList.remove('deactive-scroll-menu');
 
@@ -87,40 +86,40 @@ function App() {
                 </h3>
                 <div className="menu-item sar-list">
                     <span>آیتم‌ها</span>
-                    <span>عربیکا / ربوستا / ۵۰۵۰</span>
+                    <span>عربیکا / ۵۰۵۰ / ربوستا</span>
                 </div>
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>اسپرسو</span>
-                    <span>۹۵ / ۷۵ / ۸۵</span>
+                    <span>۹۵ / ۸۵ / ۷۵</span>
                   </div>
                   <div className="menu-item">
                     <span>آمریکانو</span>
-                    <span>۹۵ / ۷۵ / ۸۵</span>
+                    <span>۹۵ / ۸۵ / ۷۵</span>
                   </div>
                   <div className="menu-item">
                     <span>کاپوچینو</span>
-                    <span>۱۱۰ / ۹۰ / ۱۰۰</span>
+                    <span>۱۱۰ / ۱۰۰ / ۹۰</span>
                   </div>
                   <div className="menu-item">
                     <span>لته</span>
-                    <span>۱۱۰ / ۹۰ / ۱۰۰</span>
+                    <span>۱۱۰ / ۱۰۰ / ۹۰</span>
                   </div>
                   <div className="menu-item">
                     <span>کارامل ماکیاتو</span>
-                    <span>۱۳۰ / ۱۱۰ / ۱۲۰</span>
+                    <span>۱۳۰ / ۱۲۰ / ۱۱۰</span>
                   </div>
                   <div className="menu-item">
                     <span>موکا</span>
-                    <span>۱۳۰ / ۱۱۰ / ۱۲۰</span>
+                    <span>۱۳۰ / ۱۲۰ / ۱۱۰</span>
                   </div>
                   <div className="menu-item">
                     <span>کورتادو</span>
-                    <span>۱۰۵ / ۸۵ / ۹۵</span>
+                    <span>۱۰۵ / ۹۵ / ۸۵</span>
                   </div>
                   <div className="menu-item">
                     <span>قهوه ترک</span>
-                    <span>۹۵٬۰۰۰</span>
+                    <span>۸۵٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>قهوه یونانی</span>
@@ -128,7 +127,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>سیروپ اضافی</span>
-                    <span>۱۵٬۰۰۰+</span>
+                    <span>۲۰٬۰۰۰+</span>
                   </div>
                 </SimpleBar>
               </div>,
@@ -139,32 +138,32 @@ function App() {
                 
                 <div className="menu-item sar-list">
                     <span>آیتم‌ها</span>
-                    <span>عربیکا / ربوستا / ۵۰۵۰</span>
+                    <span>عربیکا / ۵۰۵۰ / ربوستا</span>
                 </div>
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>کن هیلو</span>
-                    <span>۱۰۰ / ۸۰ / ۹۰</span>
+                    <span>۱۰۰ / ۹۰ / ۸۰</span>
                   </div>
                   <div className="menu-item">
                     <span>آیس آمریکانو</span>
-                    <span>۱۰۵ / ۸۵ / ۹۵</span>
+                    <span>۱۰۵ / ۹۵ / ۸۵</span>
                   </div>
                   <div className="menu-item">
                     <span>آیس لته</span>
-                    <span>۱۲۰ / ۱۰۰ / ۱۱۰</span>
+                    <span>۱۲۰ / ۱۱۰ / ۱۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>آیس کارامل ماکیاتو</span>
-                    <span>۱۴۰ / ۱۲۰ / ۱۳۰</span>
+                    <span>۱۴۰ / ۱۳۰ / ۱۲۰</span>
                   </div>
                   <div className="menu-item">
                     <span>آیس موکا</span>
-                    <span>۱۴۰ / ۱۲۰ / ۱۳۰</span>
+                    <span>۱۴۰ / ۱۳۰ / ۱۲۰</span>
                   </div>
                   <div className="menu-item">
                     <span>آیس آفاگاتو</span>
-                    <span>۱۴۰ / ۱۲۰ / ۱۳۰</span>
+                    <span>۱۴۰ / ۱۳۰ / ۱۲۰</span>
                   </div>
                   <div className="menu-item">
                     <span>کلد برو</span>
@@ -216,7 +215,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>سَوِرتیست</span>
-                    <span>۱۳۰٬۰۰۰</span>
+                    <span>۱۵۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>موهیتو</span>
@@ -232,7 +231,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>ارغوانی</span>
-                    <span>۱۳۰٬۰۰۰</span>
+                    <span>۱۵۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>پیناکولادا</span>
@@ -457,23 +456,23 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>چای سبز</span>
-                    <span>۷۰٬۰۰۰</span>
+                    <span>۶۵٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>چای ترش</span>
-                    <span>۷۰٬۰۰۰</span>
+                    <span>۶۵٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>به لیمو</span>
-                    <span>۷۰٬۰۰۰</span>
+                    <span>۶۵٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>دمنوش سلامت</span>
-                    <span>۷۰٬۰۰۰</span>
+                    <span>۷۵٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>دمنوش آرامش</span>
-                    <span>۷۰٬۰۰۰</span>
+                    <span>۷۵٬۰۰۰</span>
                   </div>
                 </SimpleBar>
               </div>,
