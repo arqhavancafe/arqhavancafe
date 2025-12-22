@@ -23,6 +23,9 @@ jobs:
 
       - run: CI=false npm run build
 
+      - name: Add CNAME for custom domain
+        run: echo "arqhavancafe.com" > build/CNAME
+
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
