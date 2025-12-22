@@ -127,7 +127,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>سیروپ اضافی</span>
-                    <span>۲۰٬۰۰۰+</span>
+                    <span>۳۵٬۰۰۰+</span>
                   </div>
                 </SimpleBar>
               </div>,
@@ -211,39 +211,39 @@ function App() {
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>جامائیکا</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۵۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>سَوِرتیست</span>
-                    <span>۱۵۰٬۰۰۰</span>
+                    <span>۱۸۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>موهیتو</span>
-                    <span>۱۱۰٬۰۰۰</span>
+                    <span>۱۶۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>لیموناد</span>
-                    <span>۱۱۰٬۰۰۰</span>
-                  </div>
-                  <div className="menu-item">
-                    <span>پرشین فیزی</span>
-                    <span>۱۲۰٬۰۰۰</span>
-                  </div>
-                  <div className="menu-item">
-                    <span>ارغوانی</span>
                     <span>۱۵۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
+                    <span>پرشین فیزی</span>
+                    <span>۲۱۰٬۰۰۰</span>
+                  </div>
+                  <div className="menu-item">
+                    <span>ارغوانی</span>
+                    <span>۱۸۰٬۰۰۰</span>
+                  </div>
+                  <div className="menu-item">
                     <span>پیناکولادا</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۶۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>بلوهاوایی</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۵۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>چرچیل</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۲۰٬۰۰۰</span>
                   </div>
                 </SimpleBar>
               </div>,
@@ -373,43 +373,43 @@ function App() {
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>هات چاکلت</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۴۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>وایت چاکلت</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۴۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>هات پسته زعفران</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۷۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>هات نوتلا</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۶۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>شیر نسکافه</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۴۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>شیر کاکائو</span>
-                    <span>۹۵٬۰۰۰</span>
+                    <span>۱۳۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>هات لوتوس</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۶۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>شیر عسل دارچین</span>
-                    <span>۱۲۰٬۰۰۰</span>
+                    <span>۱۴۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>چای ماسالا</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۴۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>ماچا لته</span>
-                    <span>۱۴۰٬۰۰۰</span>
+                    <span>۱۸۰٬۰۰۰</span>
                   </div>
                 </SimpleBar>
               </div>
