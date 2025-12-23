@@ -127,7 +127,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>سیروپ اضافی</span>
-                    <span>۳۵٬۰۰۰+</span>
+                    <span>۲۵٬۰۰۰+</span>
                   </div>
                 </SimpleBar>
               </div>,
@@ -171,7 +171,7 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>سیروپ اضافی</span>
-                    <span>۲۰٬۰۰۰+</span>
+                    <span>۲۵٬۰۰۰+</span>
                   </div>
                 </SimpleBar>
               </div>
