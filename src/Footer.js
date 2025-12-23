@@ -21,7 +21,7 @@ const Footer = () => {
       <div className="footer-contact">
         <div className="footer-contact-item">
           <Phone size={20} color="white" />
-          <span>۰۹۱۴xxxxxxxx</span>
+          <span>۰۹۱۴-۱۴۷-۲۴۰۸</span>
         </div>
         <div className="footer-contact-item">
           <EnvelopeSimple size={20} color="white" />
