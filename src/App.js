@@ -91,7 +91,7 @@ function App() {
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>اسپرسو</span>
-                    <span>۱۱۵ / ۱۰۰ / ۹۰</span>
+                    <span>۱۷۵ / ۱۶۵ / ۱۵۵</span>
                   </div>
                   <div className="menu-item">
                     <span>آمریکانو</span>
@@ -143,7 +143,7 @@ function App() {
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>کن هیلو</span>
-                    <span>۱۲۰ / ۱۰۵ / ۹۵</span>
+                    <span>۱۷۵ / ۱۶۵ / ۱۵۵</span>
                   </div>
                   <div className="menu-item">
                     <span>آیس آمریکانو</span>
