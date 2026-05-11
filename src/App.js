@@ -106,14 +106,6 @@ function App() {
                     <span>۲۲۰ / ۲۱۰ / ۲۰۰</span>
                   </div>
                   <div className="menu-item">
-                    <span>ماچا لته</span>
-                    <span>۲۶۰</span>
-                  </div>
-                  <div className="menu-item">
-                    <span>اسپیرولینا لاته</span>
-                    <span>۲۶۰</span>
-                  </div>
-                  <div className="menu-item">
                     <span>کارامل ماکیاتو</span>
                     <span>۲۶۰ / ۲۵۰ / ۲۴۰</span>
                   </div>
@@ -124,6 +116,14 @@ function App() {
                   <div className="menu-item">
                     <span>کورتادو</span>
                     <span>۱۹۰ / ۱۸۰ / ۱۷۰</span>
+                  </div>
+                  <div className="menu-item">
+                    <span>ماچا لته</span>
+                    <span>۲۶۰,۰۰۰</span>
+                  </div>
+                  <div className="menu-item">
+                    <span>اسپیرولینا لاته</span>
+                    <span>۲۶۰,۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>قهوه ترک</span>
