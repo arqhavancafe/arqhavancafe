@@ -476,7 +476,7 @@ function App() {
                 <SimpleBar className="menu-scroll-area">
                   <div className="menu-item">
                     <span>چای نبات</span>
-                    <span>۶۵٬۰۰۰</span>
+                    <span>۹۵٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>چای سبز</span>
@@ -488,15 +488,15 @@ function App() {
                   </div>
                   <div className="menu-item">
                     <span>به لیمو</span>
-                    <span>۹۵٬۰۰۰</span>
+                    <span>۱۶۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>دمنوش سلامت</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۸۰٬۰۰۰</span>
                   </div>
                   <div className="menu-item">
                     <span>دمنوش آرامش</span>
-                    <span>۱۰۰٬۰۰۰</span>
+                    <span>۱۸۰٬۰۰۰</span>
                   </div>
                 </SimpleBar>
               </div>,
